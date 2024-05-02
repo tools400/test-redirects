@@ -14,3 +14,5 @@ The content of file `external-sites.json` is:
     "/update-site/eclipse/rdi8.0/index.html": "https://tools-400.github.io/irpgunit-web-site/update-site/eclipse/rdi8.0/"
 }
 ```
+
+GitHub discussion: [How to properly define an external redirect in 'external-sites.json'? #121975](https://github.com/orgs/community/discussions/121975)
