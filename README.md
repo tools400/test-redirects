@@ -16,7 +16,11 @@ The content of file `external-sites.json` is:
 
 It is present in the following paths:
 
-* /src/redirects/external-sites.json
 * /src/redirects/lib/external-sites.json
-* /docs/src/redirects/external-sites.json
+* /src/redirects/external-sites.json
+* /lib/redirects/external-sites.json
+* /lib/external-sites.json
 * /docs/src/redirects/lib/external-sites.json
+* /docs/src/redirects/external-sites.json
+* /docs/lib/redirects/external-sites.json
+* /docs/lib/external-sites.json
